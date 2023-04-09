@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/delete_all_items"
+        android:title="@string/delete_all_contacts"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/twoWayDataBinding"
+        android:title="@string/two_way_data_binding"
+        app:showAsAction="never"></item>
+</menu>
